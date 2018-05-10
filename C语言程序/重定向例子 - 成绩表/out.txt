@@ -1,0 +1,6 @@
+u7ebf\u57ce\u5e02 \u4e94\u5927\u884c\u4e1a\u9700\u6c42\u5927","url":"http:\/\/news.163.com\/17\/1016\/04\/D0REKVGB0001875N.html?haoCms=1","isBackup":1},{"title":"9\u6708\u4efdCPI\u516c\u5e03 \u6da8\u5e45\u8fde\u7eed8\u4e2a\u6708\u4f4e\u4e8e2%","url":"http:\/\/www.sohu.com\/a\/198225099_123753?_f=index_news_18?haoCms=1","isBackup":1}]);pagelet.on('unload', function () {yhjf.destroyTxt('#topzixun59e6fe7e3ab52');});});};</script>
+<script>BigPipe.hooks["__cb_0_52"]=function(){'use strict';
+var pagelet = this;require.defer(['indexher:static/js/ctr.js'], function (ctr) {ctr.callCTR('#box-toplist0 div[data-ctr]');pagelet.on('unload', ctr.cleanTarget);});};</script>
+<script>BigPipe.hooks["__cb_0_53"]=function(){'use strict';
+alog && alog('speed.set', 'c_tt',+new Date);alog.fire && alog.fire("mark");};</script>
+<script>BigPipe.onPageletArrive({"id":"box-toplist0","children":[],"renderMode":"server","parent":"hao
